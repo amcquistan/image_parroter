@@ -27,7 +27,7 @@ SECRET_KEY = '%uiuel=ss3=*g+t*=+lim@)+^mdrc8j&j^95sw&#=vd26$j3pu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['34.203.247.202']
+ALLOWED_HOSTS = ['localhost']
 
 
 # Application definition
