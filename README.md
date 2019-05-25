@@ -1,4 +1,4 @@
-# image_parroter: Demonstration Application Using Django Celery and Redis for Image Thumbnail Generation
+# Demon App Using Django Celery and Redis for Image Thumbnail Generation
 Code to go with StackAbuse article on using Django with Celery and Redis
 
 ### local dev setup
