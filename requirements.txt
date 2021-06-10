@@ -1,7 +1,7 @@
 amqp==2.4.2
 billiard==3.6.0.0
 celery==4.3.0
-Django==2.2.1
+Django==2.2.24
 django-widget-tweaks==1.4.3
 kombu==4.5.0
 Pillow==6.0.0
